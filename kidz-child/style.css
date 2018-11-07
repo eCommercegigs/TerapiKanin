@@ -15,3 +15,6 @@ Tags: one-column, two-columns, right-sidebar, custom-background, custom-colors, 
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+.widget > .menu-footer-menu-container, .widget > .menu-leverans-information-container {
+    padding: 0px;
+}
